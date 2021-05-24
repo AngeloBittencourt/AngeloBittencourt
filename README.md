@@ -29,7 +29,7 @@ Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvol
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBittencourt&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
 </p>
 
-<p>&nbsp;
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngeloBittencourt&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
 </p>
 
