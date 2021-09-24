@@ -13,7 +13,6 @@ Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvol
 - 💼 Sou formado em Gestão de TI mas busco uma mudança de carreira na área de DEV;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para angelogpbl.info@gmail.com para me encontrar;
-- ⚡ Fun fact: Amo Pokémon, tenho 11 graus de miopia, já tive uma poesia publicada em um livro.
 
 **Linguagens e ferramentas:** 
 
