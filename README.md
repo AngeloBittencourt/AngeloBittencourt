@@ -25,8 +25,6 @@ Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvol
 </p>
 
 <p>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloBittencourt)](https://github.com/anuraghazra/github-readme-stats)
-
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngeloBittencourt" alt="angelo-bittencourt" />
 </p>
 
