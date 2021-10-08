@@ -29,6 +29,6 @@ Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvol
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBittencourt" alt="angelo-bittencourt" />
+
 </p>
 
