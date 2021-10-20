@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Olá! 👋 </h1>
-<h3 align="center">🚀 Desenmvolvedor FullStack em formação | amor por Front-end | Open Source ♥ </h3>
+<h3 align="center">🚀 Desenvolvedor FullStack em formação | Amor por Front-end | Open Source ♥ </h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
