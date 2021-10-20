@@ -4,6 +4,7 @@
 
 ### Olá 👋
 Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvolvimento Web na Trybe.
+Formado em Gestão de TI e técnico em informática.
 
 **Sobre mim:** 
 
