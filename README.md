@@ -26,7 +26,7 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
 </div> 
-
+<div>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngeloBittencourt" alt="angelo-bittencourt" />
 </p>
@@ -34,6 +34,4 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBittencourt&layout=compact" alt="angelo-bittencourt" />
 </p>
-
-
-⭐️ From [SAchu47](https://github.com/SAchu47)
+</div>
