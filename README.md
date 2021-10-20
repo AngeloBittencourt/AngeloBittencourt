@@ -4,6 +4,7 @@
 
 <h1 align="center">Olá! 👋 </h1>
 <h3 align="center">🚀 Desenvolvedor FullStack em formação | Amor por Front-end | Open Source ♥ </h3>
+<p> Me chamo Ângelo Bittencourt, moro no Rio de Janeiro e sou estudante de Desenvolvimento Web na Trybe. Formado em Gestão de TI e técnico em informática. </p>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
