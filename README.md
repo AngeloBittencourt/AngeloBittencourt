@@ -10,12 +10,10 @@
 <div align="left"> 
   <h3> 👨🏻‍💻Sobre mim </h3>
 
-- 🔭 Estou focado em estudar desenvolvimento web full stack;
-- 🌱 Atualmente aprendendo desenvolvimento back-end pela Trybe;
+- 🔭 Me formando na Trybe como desenvolvedor Full Stack
+- 🎂 Aprendendo Java
 - 🤔 Meus hobbies são jogar video-game e ler livros;
 - 💼 Sou formado em Gestão de TI mas busco uma mudança de carreira na área de DEV;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para angelogpbl.info@gmail.com para me encontrar;
     
 </div> 
 </div>
