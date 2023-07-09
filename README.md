@@ -16,6 +16,7 @@
 - 🎂 Aprendendo Java
 - 🤔 Meus hobbies são jogar video-game e ler livros;
 - 💼 Sou formado em Gestão de TI mas busco uma mudança de carreira na área de DEV;
+- 📧 Me contate pelo e-mail: angelogpbl.info@gmail.com
     
 </div> 
 </div>
