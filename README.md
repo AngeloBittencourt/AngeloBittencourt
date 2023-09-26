@@ -29,9 +29,9 @@
   <p>
 </div> 
 <div>
-<p>
+<!-- <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngeloBittencourt" alt="angelo-bittencourt" />
-</p>
+</p> -->
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBittencourt&layout=compact" alt="angelo-bittencourt" />
